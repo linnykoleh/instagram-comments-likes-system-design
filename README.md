@@ -68,7 +68,7 @@
 
 # High Level Design:
 
-![instagram_high_level_design.png](images/instagram_high_level_design.png)
+![instagram_high_level_design.png](./images/instagram_high_level_design.png)
 
 # Detailed Design:
 
@@ -144,7 +144,7 @@ Response:
 ```
 
 
-![instagram_detailed_design.png](images/instagram_detailed_design.png)
+![instagram_detailed_design.png](./images/instagram_detailed_design.png)
 
 # Bottlenecks:
 
